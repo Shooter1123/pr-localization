@@ -923,21 +923,21 @@ HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_VNNVA_LIMITED              제한병과 - 분�
 HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_VNUSA_LIMITED              제한병과 - 분대지원화기 사수
 HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_VNUSMC_LIMITED             제한병과 - 분대지원화기 사수
 HUD_TEXT_MENU_SPAWN_KIT_SUPPORT_NL                         제한병과 - 분대지원화기 사수
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_ARF                         CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_CF                          CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_CH                          CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_CHINS                       CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_FR                          CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_FSA                         CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_GB                          CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_GER                         CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_IDF                         CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_MEC                         CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_RU                          CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_TALIBAN                     CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_US                          CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_USA                         CREWMAN
-HUD_TEXT_MENU_SPAWN_KIT_TANKER_NL                          CREWMAN
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_ARF                         운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_CF                          운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_CH                          운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_CHINS                       운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_FR                          운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_FSA                         운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_GB                          운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_GER                         운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_IDF                         운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_MEC                         운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_RU                          운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_TALIBAN                     운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_US                          운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_USA                         운전병
+HUD_TEXT_MENU_SPAWN_KIT_TANKER_NL                          운전병
 HUD_TEXT_MENU_SPAWN_KIT_WARRIOR_ARF                        전사
 HUD_TEXT_MENU_SPAWN_KIT_WARRIOR_HAMAS                      전사
 HUD_TEXT_MENU_SPAWN_KIT_WARRIOR_TALIBAN                    전사
