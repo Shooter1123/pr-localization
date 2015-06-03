@@ -74,6 +74,25 @@ HUD_TEAMNAME_vnnva                                         북베트남군
 HUD_TEAMNAME_vnusa                                         미 육군
 HUD_TEAMNAME_vnusmc                                        미 해병
 HUD_TEAMNAME_NL                                            네덜란드군
+HUD_TEAMNAME_ENGLISH_arf                                   African Resistance Fighters
+HUD_TEAMNAME_ENGLISH_cf                                    Canadian Forces
+HUD_TEAMNAME_ENGLISH_ch                                    Chinese Forces
+HUD_TEAMNAME_ENGLISH_Chinsurgent                           Militia
+HUD_TEAMNAME_ENGLISH_FR                                    French Forces
+HUD_TEAMNAME_ENGLISH_fsa                                   Syrian Rebels
+HUD_TEAMNAME_ENGLISH_GB                                    British Armed Forces
+HUD_TEAMNAME_ENGLISH_HAMAS                                 Hamas
+HUD_TEAMNAME_ENGLISH_idf                                   Israeli Defence Force
+HUD_TEAMNAME_ENGLISH_mec                                   Middle Eastern Coalition
+HUD_TEAMNAME_ENGLISH_GER                                   German Forces
+HUD_TEAMNAME_ENGLISH_Meinsurgent                           Insurgents
+HUD_TEAMNAME_ENGLISH_RU                                    Russian Armed Forces
+HUD_TEAMNAME_ENGLISH_TALIBAN                               Taliban
+HUD_TEAMNAME_ENGLISH_USA                                   United States Army
+HUD_TEAMNAME_ENGLISH_vnnva                                 North Vietnamese Army
+HUD_TEAMNAME_ENGLISH_vnusa                                 United States Army
+HUD_TEAMNAME_ENGLISH_vnusmc                                USMC
+HUD_TEAMNAME_ENGLISH_NL                                    Dutch Armed Forces
 HUD_TEXT_MENU_SPAWN_ARMY_ARF                               아프리카 민병대
 HUD_TEXT_MENU_SPAWN_ARMY_CF                                캐다다군
 HUD_TEXT_MENU_SPAWN_ARMY_CH                                인민 해방군
